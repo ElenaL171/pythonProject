@@ -1,0 +1,6 @@
+a1 = int(input ("Введите порядкровый номер месяца "))
+if a1==12 or a1==1 or a1==2: print("winter")
+if a1==3 or a1==4 or a1==5: print("spring")
+if a1==6 or a1==7 or a1==8: print("summer")
+if a1==9 or a1==10 or a1==11: print("autumn")
+if a1<1 or a1>12: print("NO")
