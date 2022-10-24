@@ -1,3 +1,7 @@
-a = int(input ("Введите целое число, по модулю не превосходящее 10000 "))
-print(f"The next number for the number {a:d} is {(a+1):d}")
-print(f"The previous number for the number {a:d} is {(a-1):d}")
+order_cost =2500
+order_discount= 2
+
+print("Цена составит:", 2500-2500*0.02)
+
+int r=3
+print("При радиусе" +r+ "площадь круга составит" + 3.14*r**2)
